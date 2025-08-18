@@ -15,7 +15,7 @@ The official syllabus is available [in Webcourses.](https://webcourses.ucf.edu/c
 ---
 ## **Sample Work (links to class projects)**
 - [Distant Reading Project](distantreading.md)
-- [Digital Narrative/Game](game.html)
+- [Bitsy Narrative](bisty_demo.html)
 - [Tracery HTML Project](tracery.html)
 - [Research Project](researchproject.md)
   
